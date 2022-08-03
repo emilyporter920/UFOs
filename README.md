@@ -37,7 +37,7 @@ Creating a fully-functional website using Javascript and HTML to display UFO sig
 
 ## Summary
 * One drawback of the website:
-    * The one drawback of this website is that the table displays data that is not consistent. For example, in the [filtered search example](*Filtered) the duration column either has the time labeled as mins., minutes, seconds, etc.
+    * The one drawback of this website is that the table displays data that is not consistent. For example, in the [filtered search example](images/filter_example.png) the duration column either has the time labeled as mins., minut es, seconds, etc.
 
 * Two additional recommendations:
     * The data should be uniform and use the same time incriments or at least use the same abbreviations between minutes and seconds. It is recommended that minutes is abbreviated to 'min' and seconds is abbreviated to 's'.
